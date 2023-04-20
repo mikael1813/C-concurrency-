@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="varianta1_MPI()">
+    <Position X="4.142" Y="2.433" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="varianta2_MPI()">
+    <Position X="1.367" Y="2.442" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="varianta3_MPI()">
+    <Position X="7.15" Y="2.392" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Main">
+    <Position X="4.058" Y="3.942" Height="0.75" Width="1.7" />
+  </Comment>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

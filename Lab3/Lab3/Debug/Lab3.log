@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(38,17): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(45,17): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(80,10): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(87,10): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(190,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(212,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(267,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(270,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(285,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(353,21): warning C4018: '>': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(373,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(385,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(395,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(420,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(560,22): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(591,24): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(604,24): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(614,27): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(645,24): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(657,24): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(667,27): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(760,21): warning C4018: '<': signed/unsigned mismatch
+C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Lab3\main.cpp(712,8): warning C4101: 'k': unreferenced local variable
+  Lab3.vcxproj -> C:\Info An 3\Sem 1\LFTC\Lab3\Lab3\Debug\Lab3.exe
